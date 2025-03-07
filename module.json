@@ -36,7 +36,8 @@
     "pf1",
     "pf2e",
     "ptu",
-    "tormenta20"
+    "tormenta20",
+    "worldbuilding"
   ],
   "relationships": {
     "systems": [
@@ -101,6 +102,13 @@
         "manifest": "https://gitlab.com/vizael/Tormenta20/-/raw/master/system.json",
         "compatibility": {
           "verified": "1.4.211"
+        }
+      },
+      {
+        "id": "worldbuilding",
+        "manifest": "https://raw.githubusercontent.com/foundryvtt/worldbuilding/master/system.json",
+        "compatibility": {
+          "verified": "0.8.2"
         }
       }
     ]
